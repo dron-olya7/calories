@@ -16,8 +16,7 @@
 
 ## Установить
 
-Чтобы сохранить код на свою локальную машину откройте git bash и введите:
-https://github.com/dron-olya7/calories-calculator
+Чтобы сохранить код на свою локальную машину откройте git bash и введите команду git clone https://github.com/dron-olya7/calories-calculator
 
 Далее откройте Visual Studio Code и откройте папку либо через файл -> открыть папку -> выберете папку calories-calculator либо через набор клавиш таких как ctrl+K+O и также выберете папку calories-calculator. 
 
